@@ -1,4 +1,4 @@
-# Electronics Task 2 – 6 Servo Motor Control with Arduino
+# Electronics – 6 Servo Motor Control with Arduino
 
 ![Circuit](circuit2-screenshot.png)
 
